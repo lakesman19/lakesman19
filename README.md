@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Devloper and Designer
 -------------------------
 
-I'm Frontend Developer and also and undergraduate in final year learning History and diplomatic studies in Olabisi Onabanjo University
+I'm Frontend Developer and a graduate of History and diplomatic studies in Olabisi Onabanjo University
 
 *   🌍  I'm based in Lagos Nigeria
 *   ✉️  You can contact me at [Olalekanonauga@gmail.com](mailto:Olalekanonauga@gmail.com)
-*   🧠  I'm learning Typscript
+*   🧠  I'm always learning 
 *   🤝  I'm open to collaborating on On Anything Projects
 *   ⚡  My best book is pride and prejudice by jane Austen
 
